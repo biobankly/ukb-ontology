@@ -43,9 +43,9 @@ Instead of navigating through the UK Biobank’s web interface multiple times to
    **No GitHub experience needed!** Just grab the file that matches your platform or clone the repository if you want to explore the code.
 
    **Direct Downloads:**
-   - [Windows (EXE)](#)
-   - [Linux (Executable)](#)  
-     *(Mac version is coming soon! 🍏)*
+   - 🍏 **Mac** (Executable)  
+   - 🪟 **Windows** (EXE)  
+   - 🐧 **Linux** (Executable)  
 
    **To Clone:**
    ```sh
