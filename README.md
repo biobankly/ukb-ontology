@@ -49,7 +49,7 @@ Instead of navigating through the UK Biobank’s web interface multiple times to
 
    **To Clone:**
    ```sh
-   git clone https://github.com/biobankly/UKB-Ontology-Viewer.git
+   git clone https://github.com/biobankly/ukb-ontology.git
    ```
 
 2. **Run the Application:**  
